@@ -23,7 +23,6 @@ function Form() {
                 <td>${session.address}</td>
                 <td>${session.available_capacity}</td>
                 <td>${session.slots.join(" , ")}</td>
-                <td>${session.vaccine.toLowerCase()}</td>
                </tr>`
             );
           });
@@ -66,7 +65,6 @@ function Form() {
             <th scope="col">Address</th>
             <th scope="col">Available Vaccines</th>
             <th scope="col">Slots</th>
-            <th scope="col">Vaccine</th>
           </tr>
         </thead>
         <tbody id="data"></tbody>

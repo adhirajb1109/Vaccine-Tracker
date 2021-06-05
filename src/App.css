@@ -11,6 +11,7 @@
 }
 #table {
   display: none;
+  width: 100px;
 }
 #card {
   display: none;
