@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
+* {
+  font-family: "Mate SC";
+  font-weight: bold;
+}
+.error {
+  font-weight: bold;
+}
+.card-body {
+  padding: 0 !important;
+}
+#table {
+  display: none;
+}
+#card {
+  display: none;
+}
