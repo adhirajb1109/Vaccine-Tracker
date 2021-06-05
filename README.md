@@ -13,7 +13,7 @@ npm install
 
 👤 **Adhiraj Bhatia**
 
-* Website: https://adhiraj-bhatia.vercel.app
+* Website: https://adhirajbhatia.vercel.app
 * Github: [@AdhirajBhatia](https://github.com/AdhirajBhatia)
 
 ## Show your support
