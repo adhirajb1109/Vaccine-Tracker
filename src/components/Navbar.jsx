@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
             Vaccine Tracker
@@ -24,15 +24,6 @@ function Navbar() {
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="/">
                   Home
-                </a>
-              </li>
-              <li className="nav-item">
-                <a
-                  className="nav-link active"
-                  href="https://contact-adhiraj.herokuapp.com/"
-                  target="_blank"
-                >
-                  Contact Developer
                 </a>
               </li>
             </ul>

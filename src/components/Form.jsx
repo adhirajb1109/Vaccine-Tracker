@@ -46,7 +46,7 @@ function Form() {
         </div>
         <button
           type="submit"
-          className="btn btn-primary"
+          className="btn btn-outline-dark"
           id="submit"
           onClick={Submit}
         >
@@ -58,7 +58,7 @@ function Form() {
           <h5 class="card-title error">No Slots Available</h5>
         </div>
       </div>
-      <table class="table my-3" id="table">
+      <table class="table table-bordered table-hover my-3 mt-4" id="table">
         <thead>
           <tr>
             <th scope="col">Hospital</th>

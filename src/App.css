@@ -1,7 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
 * {
-  font-family: "Mate SC";
-  font-weight: bold;
+  font-family: "Quicksand";
 }
 .error {
   font-weight: bold;
@@ -11,7 +10,6 @@
 }
 #table {
   display: none;
-  width: 100px;
 }
 #card {
   display: none;
